@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Lolo2ano/Lolo2ano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### bem vindo ao meu perfil 🤍
 
-Here are some ideas to get you started:
+meu nome e maria heloiza 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•Estou estudando na alura; 
+
+•Estou me desenvolvendo na linguagem javaScript🎮
+
+•utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos 
+
+
+
+### voce pode entrar em contanto comigo: gmail.com 💌 e instagram 🤍
+
+gmail.com 💌
+• eloisaperrote@gmail.com 
+
+
+instagram 🤍 
+• @heloizaperrote 
+
+### informações sobre mim 
+
+• data de nascimento 24/08/2007 
+
+• sou do singo de virgem 
+
+• gosto de comer e conversar 😅
